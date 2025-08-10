@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AtticusJetpackComposeStudyDemo</string>
+    <string name="title_birthday_card_activity">Birthday Card Activity</string>
+
+    <string-array name="title_list_home_navigation">
+        <item>First Class</item>
+        <item>Column and Row</item>
+    </string-array>
+
+    <string-array name="summary_list_home_navigation">
+        <item>Make A Birthday card</item>
+        <item>Column/ Row</item>
+    </string-array>
+
 </resources>

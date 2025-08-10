@@ -2,4 +2,9 @@
 <resources>
 
     <style name="Theme.AtticusJetpackComposeStudyDemo" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AtticusJetpackComposeStudyDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
 </resources>
